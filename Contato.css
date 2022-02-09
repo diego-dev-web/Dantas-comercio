@@ -244,11 +244,12 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 1299px;
+    min-height: 1703px;
   }
 
   .u-section-1 .u-list-1 {
     width: 340px;
+    margin-top: 1px;
   }
 
   .u-section-1 .u-repeater-1 {
@@ -272,6 +273,7 @@
 
   .u-section-1 .u-layout-wrap-1 {
     width: 340px;
+    margin-bottom: 35px;
   }
 
   .u-section-1 .u-layout-cell-1 {

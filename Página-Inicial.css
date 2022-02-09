@@ -597,12 +597,12 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 769px;
+    min-height: 816px;
   }
 
   .u-section-4 .u-group-1 {
     width: 340px;
-    margin-top: 50px;
+    margin-top: 51px;
   }
 
   .u-section-4 .u-text-1 {
@@ -619,6 +619,10 @@
   }
 
   .u-section-4 .u-map-1 {
-    width: 340px;
+    margin-top: 23px;
+    margin-bottom: 23px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 }
